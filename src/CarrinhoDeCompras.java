@@ -32,7 +32,7 @@ public class CarrinhoDeCompras {
 				System.out.println("\nModo Administrador");
 				System.out.println("\n1. Cliente");
 				System.out.println("2. Produto");
-				System.out.println("3. Sair");
+				System.out.println("\n3. Sair");
 				
 				System.out.print("Opção >> ");
 				op = get.nextInt();
